@@ -1,6 +1,5 @@
 Book Quotes
 ================
-Chad Allison
 
 This is a repository tracking quotes I find memorable from books I read.
 
