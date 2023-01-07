@@ -12,6 +12,8 @@ This is a repository tracking quotes I find memorable from books I read.
   Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager)
 - [*Let My People Go Surfing* - Yvon
   Chouinard](#let-my-people-go-surfing---yvon-chouinard)
+- [*The Masters: Golf, Money, and Power in Augusta, Georgia* - Curt
+  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson)
 - [*Why We Run: A Natural History* - Bernd
   Heinrich](#why-we-run-a-natural-history---bernd-heinrich)
 
@@ -23,6 +25,31 @@ This is a repository tracking quotes I find memorable from books I read.
   lives often depends on the quality of our habits.” (7)
 - “A very small shift in direction can lead to a very meaningful change
   in destination.” (17)
+- “Complaining about not achieving success despite working hard is like
+  complaining about an ice cube not melting when you heated it from
+  twenty-five to thirty-one degrees. Your work was not wasted; it is
+  just being stored. All the action happens at thirty-two degrees.” (21)
+- “’When nothing seems to help, I go and look at a stonecutter hammering
+  away at his rock, perhaps a hundred times without as much as a crack
+  showing in it. Yet at the hundred and first blow it will split in two,
+  and I know it was not that last blow that die it – but all that had
+  gone before.” (21)
+- “‘The score takes care of itself.’ The same is true for other areas of
+  life. If you want better results, then forget about setting goals.
+  Focus on your system instead.” (24)
+- “When you solve problems at the results level, you only solve them
+  temporarily. In order to improve for good, you need to solve problems
+  at the systems level. Fix the inputs and the outputs will fix
+  themselves.” (25)
+- “It makes no sense to restrict your satisfaction to one scenario when
+  there are many paths to success.” (26)
+- “The goal is not to run a marathon, the goal is to *become* a runner.”
+  (34)
+- “The most practical way to change *who* you are is to change *what*
+  you do. (38)
+- “If you keep casting the same votes you’ve always cast, you’re going
+  to get the same results you’ve always had. If nothing changes, nothing
+  is going to change.” (39)
 
 ------------------------------------------------------------------------
 
@@ -45,6 +72,16 @@ This is a repository tracking quotes I find memorable from books I read.
   us to live our real lives – rather than as substitutes and surrogates
   for that life – we would need many fewer products to be happy. (Naomi
   Klein, XI)
+
+------------------------------------------------------------------------
+
+### *The Masters: Golf, Money, and Power in Augusta, Georgia* - Curt Sampson
+
+- “Perhaps the lesson is that maintaining a golf course is an unnatural
+  act that can have unintended results.” (224)
+- “‘I was assigned as an advisor to Lieutenant Colonel Nguyen Phong,’
+  Woods said. ‘Phong and I were in combat all the time. Because Phong
+  fought like a tiger, I named my son Tiger in his honor.’” (233)
 
 ------------------------------------------------------------------------
 
