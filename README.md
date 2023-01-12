@@ -51,7 +51,8 @@ This is a repository tracking quotes I find memorable from books I read.
   to get the same results you’ve always had. If nothing changes, nothing
   is going to change.” (39)
 - “They make you think that you have to choose between building habits
-  and attaining freedom. In reality, the two compliment each other. (46)
+  and attaining freedom. In reality, the two compliment each other.”
+  (46)
 - “Environment is the invisible hand that shapes human behavior.” (82)
 - “You don’t have to be the victim of your environment. You can also be
   the architect of it.” (84)
@@ -85,6 +86,13 @@ This is a repository tracking quotes I find memorable from books I read.
 - “… our behavior is heavily dependent on how we interpret the events
   that happen to us, not necessarily the objective reality of the events
   themselves.” (129)
+- “… for many of us, a little bit of friction can be the difference
+  between sticking with a good habit or sliding into a bad one.” (158)
+- “The point is to master the habit of showing up. The truth is, a habit
+  must be established before it can be improved.” (163)
+- “… the costs of your good habits are in the present. The costs of your
+  bad habits are in the future.” (189)
+- “… the last mile is always the least crowded.” (190)
 
 ------------------------------------------------------------------------
 
