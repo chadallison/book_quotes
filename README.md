@@ -93,6 +93,38 @@ This is a repository tracking quotes I find memorable from books I read.
 - “… the costs of your good habits are in the present. The costs of your
   bad habits are in the future.” (189)
 - “… the last mile is always the least crowded.” (190)
+- “The first mistake is never the one that ruins you. It is the spiral
+  of repeated mistakes that follows. Missing once is an accident.
+  Missing twice is the start of a new habit.” (201)
+- “… when successful people fail, they rebound quickly. The breaking of
+  a habit doesn’t matter if the reclaiming of it is fast.” (201)
+- “In our data-driven world, we tend to overvalue numbers and undervalue
+  anything ephemeral, soft, and difficult to quantify. We mistakenly
+  think the factors we can measure are the only factors that exist. But
+  just because you can measure something doesn’t mean it’s the most
+  important thing. And just because you *can’t* measure something
+  doesn’t mean it’s not important at all.” (203)
+- “When you can’t win by being better, you can win by being different.”
+  (225)
+- “Boiling water will soften a potato but harden an egg. You can’t
+  control whether you’re a potato or an egg, but you can decide to play
+  a game where it’s better to be hard or soft.” (226)
+- “Until you work as hard as those you admire, don’t explain away their
+  success as luck.” (227)
+- “‘10 years spent learning, 4 years spent refining, and 4 years as a
+  wild success.’” (230)
+- “‘Men desire novelty to such an extent that those who are doing well
+  wish for a change as much as those who are doing badly.’” (234)
+- “… everyone faces the same challenge on the journey of
+  self-improvement: you have to fall in love with boredom.” (235)
+- “Anyone can work hard when they feel motivated. It’s the ability to
+  keep going when work isn’t exciting that makes the difference.” (237)
+- “Being curious is better than being smart. Being motivated and curious
+  counts for more than being smart because it leads to action.” (261)
+- “Your actions reveal how bad you want something. If you keep saying
+  something is a priority but you never act on it, then you don’t really
+  want it. It’s time to have an honest conversation with yourself. Your
+  actions reveal your true motivations.” (262)
 
 ------------------------------------------------------------------------
 
