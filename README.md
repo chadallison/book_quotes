@@ -147,6 +147,16 @@ This is a repository tracking quotes I find memorable from books I read.
   us to live our real lives – rather than as substitutes and surrogates
   for that life – we would need many fewer products to be happy. (Naomi
   Klein, XI)
+- “If you just ask people for help – if you just admit that you don’t
+  know something – they will fall all over themselves trying to help.”
+  (38)
+- “Since we were the first catalog in the United States to use recycled
+  paper, the result was a disaster the first season … But in that first
+  year alone our switching to recycled paper saved 3.5 million
+  kilowatt-hours of electricity and 6 million gallons of water; kept
+  52,000 pounds of pollutants out of the air and 1,560 cubic yards of
+  solid waste out of landfills, and prevented 14,500 trees from being
+  felled.” (57)
 
 ------------------------------------------------------------------------
 
