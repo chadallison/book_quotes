@@ -157,6 +157,17 @@ This is a repository tracking quotes I find memorable from books I read.
   52,000 pounds of pollutants out of the air and 1,560 cubic yards of
   solid waste out of landfills, and prevented 14,500 trees from being
   felled.” (57)
+- “If you’re really serious about giving money away, you’d sell the
+  company for a hundred million or so, keep a couple million for
+  yourselves, and put the rest in a foundation.” (60)
+- “The more you know, the less you need.” (80)
+- “The Dalai Lama says too much choice brings unhappiness.” (86)
+- “When I’m working on a problem, I never think about beauty. I think
+  only how to solve the problem. But when I have finished, if the
+  solution is not beautiful, I know it is wrong.” (91)
+- “Again, like the Zen approach to archery or anything else, you
+  identify the goal and then forget about it and concentrate on the
+  process.” (117)
 
 ------------------------------------------------------------------------
 
