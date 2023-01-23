@@ -168,6 +168,21 @@ This is a repository tracking quotes I find memorable from books I read.
 - “Again, like the Zen approach to archery or anything else, you
   identify the goal and then forget about it and concentrate on the
   process.” (117)
+- “It’s okay to be eccentric, as long as you are rich; otherwise, you’re
+  just crazy.” (151)
+- “A master in the art of living draws no sharp distinction between his
+  work and his play … to himself, he always appears to be doing both.”
+  (157)
+- “Hiring people with diverse backgrounds brings in a flexibility of
+  thought and openness to new ways of doing things, as opposed to hiring
+  clones from business schools who have been taught a codified way of
+  doing business. A business that thrives on being different requires
+  different types of people.” (159)
+- “Allowing freedom to make mistakes and structuring opportunities for
+  success gives children a sense of power over their environment that
+  fuels self-esteem, independence, and problem solving.” (163)
+- “It’s not the strongest species that survives, nor the most
+  intelligent, but the one most responsive to change.” (167)
 
 ------------------------------------------------------------------------
 
