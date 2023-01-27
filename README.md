@@ -10,6 +10,8 @@ This is a repository tracking quotes I find memorable from books I read.
 - [*Atomic Habits* - James Clear](#atomic-habits---james-clear)
 - [*Best Seat in the House* - Jack Nicklaus II & Don
   Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager)
+- [*Jesus and John Wayne* - Kristin Kobes Du
+  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez)
 - [*Let My People Go Surfing* - Yvon
   Chouinard](#let-my-people-go-surfing---yvon-chouinard)
 - [*The Masters: Golf, Money, and Power in Augusta, Georgia* - Curt
@@ -138,6 +140,21 @@ This is a repository tracking quotes I find memorable from books I read.
   caring, and listening to and learning from your friends, family, and
   strangers is very important. As big as our world is, it truly is
   small.” (122)
+
+------------------------------------------------------------------------
+
+### *Jesus and John Wayne* - Kristin Kobes Du Mez
+
+- “… to Trump and his evangelical supporters alike, restoring white
+  patriarchal power would make America great again.” (XVI)
+- “Christian nationalism – the belief that America is God’s chosen
+  nation and must be defended as such – serves as a powerful predictor
+  of intolerance toward immigrants, racial minorities, and
+  non-Christians. It is linked to opposition to gay rights and gun
+  control, to support for harsher punishments for criminals, to
+  justifications for the use of excessive force against black Americans
+  in law enforcement situations, and to traditionalist gender ideology.”
+  (4)
 
 ------------------------------------------------------------------------
 
