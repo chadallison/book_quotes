@@ -155,6 +155,21 @@ This is a repository tracking quotes I find memorable from books I read.
   justifications for the use of excessive force against black Americans
   in law enforcement situations, and to traditionalist gender ideology.”
   (4)
+- “‘I would rather see my four girls shot and die as little girls who
+  have faith in God than leave them to die some years later as godless,
+  faithless, soulless Communists.’” (Pat Boone, 41)
+- “\[Marabel\] Morgan offered practical tips to help women ‘become the
+  sunshine’ in their homes, advice that included time management, more
+  efficient meal planning (prepare your dinner salads right after
+  breakfast), and weight loss. Most importantly, women just need to stop
+  nagging their husbands.” (60)
+- “Morgan’s solution was simple: treat your husband like a king, revere
+  him, and cater to his every need. This was especially important for
+  working women, because a man’s ‘masculinity may be threatened by your
+  paycheck.’ A wife needed to let her husband know that he was her hero,
+  and it was her job to put her husband’s ‘tattered ego’ back together
+  at the end of each day by admiring his masculine qualities – his
+  muscles, or whiskers.” (61)
 
 ------------------------------------------------------------------------
 
