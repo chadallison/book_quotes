@@ -170,6 +170,64 @@ This is a repository tracking quotes I find memorable from books I read.
   and it was her job to put her husband’s ‘tattered ego’ back together
   at the end of each day by admiring his masculine qualities – his
   muscles, or whiskers.” (61)
+- “In this way, proponents of ‘biblical law’ married ‘traditional’
+  gender roles to unrestrained, free-market capitalism. It was a match
+  made in heaven.” (76)
+- “… the notion of personal rights interfered with the hierarchical
+  structure of authority, contradicting God’s design and provoking only
+  anger and resentment.” (76)
+- “Men liked to ‘hunt and fish and hike in the wilderness’ while women
+  preferred to ‘stay at home and wait for them.’ Men played sports as
+  women watched, ‘yawning on the sidelines.’ But perhaps the most
+  profound difference between men and women, according to Dobson, was
+  their source of self-esteem: ‘Men derive self-esteem by being
+  *respected*; women feel worthy when they are *loved*.’” (83-84)
+- “But family values politics was never about protecting the well-being
+  of families generally. Fundamentally, evangelical ‘family values’
+  entailed the reassertion of patriarchal authority. At its most basic
+  level, family values politics was about sex and power.” (88)
+- “Threats of a spiritual and cultural nature required a militant
+  Christianity; threats to the nation required unrestrained militarism.”
+  (100)
+- “… and for conservatives, ‘tough on crime’ generally connoted only
+  certain types of crime: ‘street crime,’ or the threat of black men.
+  Domestic violence, sexual assault, and child abuse didn’t register.”
+  (105)
+- “After all, as evangelicals saw it, the Cold War wasn’t really all
+  that different from the Wild West. Violence, or the threat of
+  violence, secured order. Rules might have to be broken, but the ends
+  justified the means. What was needed was a strong leader, a man who
+  could assert masculine power in the international arena.” (110-111)
+- “Cole had no use for ‘sissified’ portraits of Jesus that failed to
+  reveal his true character. ‘*Christlikeness and manhood are
+  synonymous*,’ he insisted, and to be Christlike, to be a man, required
+  ‘a certain ruthlessness.’” (125)
+- “Women, children, churches, and nations all needed masculine decision
+  makers; America was great only when its men were great.” (125)
+- “Falwell sparked controversy by characterizing AIDS as ‘the wrath of
+  God upon homosexuals’ and recommending that those with AIDS be
+  quarantined.” (135)
+- “Republicans wasted no time in impugning Dukakis’s patriotism and
+  sabotaging his masculinity – and in their view the two were closely
+  connected.” (137)
+- “Inspired by their interpretation of biblical prophecies in the Book
+  of Revelation, conservative Protestants had long feared a ‘one-world’
+  government that would be ruled over by the Antichrist.” (138)
+- “Even worse, as a feminist and a career woman, Hillary Rodham had
+  provoked the ire of religion conservatives when she refused to take
+  her husband’s name.” (140)
+- “Not only did this smack of socialism as far as conservatives were
+  concerned, by the Christian Coalition insisted that health-care reform
+  concealed a ‘radical social agenda,’ ostensibly by promoting abortion,
+  gay rights, and sex education.” (140)
+- “Clinton’s job rating received a significant boost as the scandal
+  unfolded – ‘the formerly feminized president had been resurrected as a
+  phallic leader.’” (144)
+- “Within their own circles, evangelicals didn’t have a strong record
+  when it came to defending women against harassment and abuse.” (144)
+- “Without the threat of Godless communism to justify militant Christian
+  masculinity, many evangelical men began to express uncertainty about
+  what manhood in fact required.” (149)
 
 ------------------------------------------------------------------------
 
