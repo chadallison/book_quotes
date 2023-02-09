@@ -228,6 +228,54 @@ This is a repository tracking quotes I find memorable from books I read.
 - “Without the threat of Godless communism to justify militant Christian
   masculinity, many evangelical men began to express uncertainty about
   what manhood in fact required.” (149)
+- “Unfortunately, the church was part of the problem. Failing to present
+  the true Jesus, it instead depicted him ‘as a meek and gentle
+  milk-toast character’ – a man who never could have inspired ‘brawny
+  fishermen like Peter to follow him.’ It was time to replace this
+  ‘Sunday school Jesus’ with a warrior Jesus.” (161)
+- “‘What if we told me up front that to join the church of Jesus Christ
+  is … to enlist in God’s army and to place their lives on the line?’”
+  (161)
+- “As ‘point man,’ the father needed to protect sons from feminization.
+  Boys, he explained, were naturally aggressive due to their higher
+  levels of testosterone; aggression was ‘part of being male.’” (163)
+- “‘They will survive the scars and broken bones of boyhood,’ Farrar
+  wrote, ‘but they cannot survive being feminized.’ Boys who were
+  overprotected, particularly by mothers, were in danger of having their
+  masculinity ‘warped.’” (163)
+- “God created men and women ‘equal before God’ yet ‘distinct in their
+  manhood in womanhood.’ The statement attested that God had established
+  male headship as part of the order of creation and closed the door to
+  women in church leadership.” (167)
+- “As early as 1981, President Reagan began directing government funding
+  to abstinence-only sex education … Here was a case of government
+  intrusion into the most intimate of matters, yet evangelicals didn’t
+  seem to mind.” (171-172)
+- “Yearning to know they were powerful and dangerous, someone to be
+  reckoned with, they specialized in inventing games ‘where bloodshed is
+  a prerequisite for having fun.’ God made men to be dangerous, Eldredge
+  explained.” (173)
+- “According to Eldredge, God created all men to long for ‘a battle to
+  fight, an adventure to live, and a beauty to rescue.’” (174)
+- “He praised Dabney’s ‘prophetic’ views on the evils of public
+  education and women’s equality, and he found Dabney’s anti-feminism
+  ‘refreshingly virile.’ Phillips skirted around Dabney’s proslavery
+  sentiments, although Phillips, too, diminished the horrors of slavery
+  and denied the genocide of Native Americans.” (190)
+- “In a language that would have been familiar to many among his flock,
+  Driscoll insisted that real men avoided church because they had no
+  interest in a ‘Richard Simmons, hippie, queer Christ.’” (193)
+- “For Driscoll, the problem went all the way back to the biblical Adam,
+  a man who plunged humanity headlong into ‘hell/feminism’ by listening
+  to his wife.” (195)
+- “Driscoll thrived on manufacturing a sense of threat posed by
+  outsiders … Driscoll incited fear in order to maintain control.” (196)
+- “‘I remember being fascinated by the way that he would talk about
+  things in the sermons no one was talking about, like how sex plays an
+  important role in marriage, and how ’pussified’ the church was
+  becoming … I didn’t recognize the misogyny in his theology at the
+  time, as a stereotypical beta male, it was like an invitation to
+  become important …’” (198)
 
 ------------------------------------------------------------------------
 
