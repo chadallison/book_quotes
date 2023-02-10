@@ -276,6 +276,10 @@ This is a repository tracking quotes I find memorable from books I read.
   becoming … I didn’t recognize the misogyny in his theology at the
   time, as a stereotypical beta male, it was like an invitation to
   become important …’” (198)
+- “Every man dies, but not every man truly lives.” (217)
+- “On the part of evangelical leaders, at the very least, fear of Islam
+  appeared to be nothing more than an attempt to drum up support for the
+  militant faith they were hawking.” (218)
 
 ------------------------------------------------------------------------
 
