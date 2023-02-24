@@ -67,8 +67,8 @@ This is a repository tracking quotes I find memorable from books I read.
   positive habits in a negative environment.” (94)
 - “People with high self-control tend to spend less time in tempting
   situations. It’s easier to avoid temptation than resist it.” (95)
-- “Ultimately, such strategies enable food scientists to find the”bliss
-  point” for each product – the precise combination of salt, sugar, and
+- “Ultimately, such strategies enable food scientists to find the 'bliss
+  point' for each product – the precise combination of salt, sugar, and
   fat that excites your brain and keeps you coming back for more. The
   result, of course, is that you overeat because hyperpalatable foods
   are more attractive to the human brain.” (103)
