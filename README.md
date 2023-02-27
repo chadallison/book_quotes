@@ -493,6 +493,27 @@ This is a repository tracking quotes I find memorable from books I read.
   dispose of what’s left over. It relies on itself for all it needs:
   space, material, and labor.” (111-112)
 - “What doesn’t transmit light creates its own darkness.” (113)
+- “What else did you expect from helping someone out? Isn’t it enough
+  that you’ve done what your nature demands? You want a salary for it
+  too? As if your eyes expected a reward for seeing, or your feet for
+  walking. That’s what they were made for. By doing what they were
+  designed to do, they’re performing their function. Whereas humans were
+  made to help others. And when we do help others – or help them to do
+  something – we’re doing what we were designed for. We perform our
+  function.” (128)
+- “To stop talking about what the good man is like, and just be one.”
+  (137)
+- “Have I done something for the common good? Then I share in the
+  benefits.” (148)
+- “A branch cut away from the branch beside it is simultaneously cut
+  away from the whole tree. So too a human being separated from another
+  is cut loose from the whole community.” (149)
+- (rephrase) “How driven are you by your beliefs? How proud are you of
+  what you do?” (153)
+- “When you start to lose your temper, remember: There’s nothing manly
+  about rage. It’s courtesy and kindness that define a human being – and
+  a man. That’s who possesses strength and nerves and guts, not the
+  angry whiners.” (154)
 
 ------------------------------------------------------------------------
 
