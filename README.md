@@ -514,6 +514,13 @@ This is a repository tracking quotes I find memorable from books I read.
   about rage. It’s courtesy and kindness that define a human being – and
   a man. That’s who possesses strength and nerves and guts, not the
   angry whiners.” (154)
+- “It never ceases to amaze me: we all love ourselves more than other
+  people, but care more about their opinion than our own.” (162)
+- “Everything’s destiny is to change, to be transformed, to perish. So
+  that new things can be born.” (166)
+- “That whatever happens has always happened, and always will, and is
+  happening at this very moment, everywhere. Just like this. What links
+  one human being to all humans: not blood, or birth, but mind.” (167)
 
 ------------------------------------------------------------------------
 
