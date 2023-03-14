@@ -552,6 +552,37 @@ This is a repository tracking quotes I find memorable from books I read.
   when they chose to disregard his commend and eat the forbidden fruit …
   Adam would now be subject to his source (the ground), even as Eve was
   now subject to her source (Adam).” (Alice Matthews, 29)
+- “Biblical scholar Clarice J. Martin reminds us that while patriarchy
+  defines the boundaries of women’s lives, it also defines ‘subjugated
+  people and races as ’the others’ to be dominated.’ Patriarchy walks
+  with structural racism and systemic oppression, and it has done so
+  consistently throughout history.” (33)
+- “The most difficult passages in the Bible to explain, historically
+  speaking, are those like Galatians 3:26-28: ‘For in Christ Jesus you
+  are all children of God through faith. As many of you as were baptized
+  into Christ have clothed yourself with Christ. There is no longer Jew
+  or Greek, there is no longer slave or free, there is no longer male
+  and female; for all of you are one in Christ Jesus.’” (36)
+- “I knew the problem wasn’t a lack of women leading in church history.
+  The problem was simply that women’s leadership has been forgotten,
+  because women’s stories throughout history have been covered up,
+  neglected, or retold to recast women as less significant than they
+  really were.” (84)
+- “Despite the significant role women play in church history, and
+  despite clear historical evidence of women exercising leadership,
+  these popular, modern church history texts present a masculine
+  narrative of church history that minimizes female leadership.” (98)
+- “Women were encouraged to be chaste, modest, obedient, and passive,
+  while men were encouraged to be aggressive, domineering, controlling,
+  and active.” (105)
+- “\[Isaac\] Marlow argued that singing was unbiblical because if the
+  entire congregation sang, women would sing too.” (121)
+- “Instead of Scripture transforming society, society transformed how
+  early modern Christians interpreted the Bible – and this was
+  compounded (as we will see in the next chapter) by the proliferation
+  of the English Bible.” (127)
+- “Conservative evangelicals believed that the key to reducing sexual
+  temptation for men was emphasizing purity for women.” (156)
 
 ------------------------------------------------------------------------
 
