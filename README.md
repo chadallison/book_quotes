@@ -583,6 +583,27 @@ This is a repository tracking quotes I find memorable from books I read.
   of the English Bible.” (127)
 - “Conservative evangelicals believed that the key to reducing sexual
   temptation for men was emphasizing purity for women.” (156)
+- “Spacey’s character delivers a line I have never forgotten: ‘The
+  greatest trick the devil ever pulled was convincing the world he
+  didn’t exist.’ I haven’t forgotten the line, because I disagree with
+  it. The greatest trick the devil ever pulled was convincing Christians
+  that oppression is godly. That God ordained some people, simply
+  because of their sex or skin color (or both), as belonging under the
+  power of other people. That women’s subordination is central to the
+  gospel of Christ.” (173)
+- “\[Russell Moore\] concludes that it is time to cast a new vision of
+  Christianity that ‘provides a biblically and theologically compelling
+  alternative’ to egalitarianism – one ‘that sums up the burden of male
+  headship under the cosmic rubric of the gospel of Christ and the
+  restoration of all things in him.’ It is time, in other words, to
+  write female submission into the heart of Christianity.” (174)
+- “If the elders considered allowing women to teach or exercise
+  authority over men (i.e., teenage boys in Sunday school), it would
+  lead to the ‘slippery slope’ (this was the actual phrase used) of
+  cultural compromise.” (191)
+- “Ideas matter. Ideas that depict women as less than men influence men
+  to treat women as less than men. Ideas that objectify women result in
+  women being treated like objects (sex objects, mostly).” (212)
 
 ------------------------------------------------------------------------
 
