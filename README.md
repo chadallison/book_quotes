@@ -14,6 +14,8 @@ This is a repository tracking quotes I find memorable from books I read.
   Mez](#jesus-and-john-wayne---kristin-kobes-du-mez)
 - [*Let My People Go Surfing* - Yvon
   Chouinard](#let-my-people-go-surfing---yvon-chouinard)
+- [*Lord of the Flies* - William
+  Golding](#lord-of-the-flies---william-golding)
 - [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius)
 - [*The Making of Biblical Womanhood* - Beth Allison
   Barr](#the-making-of-biblical-womanhood---beth-allison-barr)
@@ -394,6 +396,27 @@ This is a repository tracking quotes I find memorable from books I read.
 - “I believe the way toward mastery of any endeavor is to work toward
   simplicity; replace complex technology with knowledge. The more you
   know, the less you need.” (231)
+
+------------------------------------------------------------------------
+
+### *Lord of the Flies* - William Golding
+
+- “And my heart goes out now to Simon, who knew, who tried to say, of
+  the Beast, ‘it’s only us’ and no one would listen.” (Lois Lowry, xv)
+- “The simple statement, unbacked by any proof but the weight of Ralph’s
+  new authority, brought light and happiness.” (41)
+- “On the end of the platform, Piggy was lying flat, looking down into
+  the brilliant water. ‘People don’t help much.’ He wanted to explain
+  how people were never quite what you thought they were.” (63)
+- “‘The thing is – fear can’t hurt you any more than a dream.’” (101)
+- “‘What are we? Humans? Or animals? Or savages?’” (112)
+- “‘Grownups know things,’ said Piggy. ‘They ain’t afraid of the dark.
+  They’d meet and have tea and discuss. Then things ’ud be all right.’”
+  (115)
+- “‘We just got to go on, that’s all. That’s what grownups would do.’”
+  (177)
+- “Piggy once more was the center of social derision so that everyone
+  felt cheerful and normal.” (190)
 
 ------------------------------------------------------------------------
 
