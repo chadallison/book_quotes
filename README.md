@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Book Quotes
 ================
 
@@ -8,24 +7,24 @@ This is a repository tracking quotes I find memorable from books I read.
 
 ## Contents
 
-- [*Atomic Habits* - James Clear](#atomic-habits---james-clear)
+- [*Atomic Habits* - James Clear](#atomic-habits---james-clear-1)
 - [*Best Seat in the House* - Jack Nicklaus II & Don
-  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager)
+  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager-1)
 - [*Jesus and John Wayne* - Kristin Kobes Du
-  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez)
+  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez-1)
 - [*Let My People Go Surfing* - Yvon
-  Chouinard](#let-my-people-go-surfing---yvon-chouinard)
+  Chouinard](#let-my-people-go-surfing---yvon-chouinard-1)
 - [*Lord of the Flies* - William
-  Golding](#lord-of-the-flies---william-golding)
-- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius)
+  Golding](#lord-of-the-flies---william-golding-1)
+- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius-1)
 - [*The Making of Biblical Womanhood* - Beth Allison
-  Barr](#the-making-of-biblical-womanhood---beth-allison-barr)
+  Barr](#the-making-of-biblical-womanhood---beth-allison-barr-1)
 - [*The Masters: Golf, Money, and Power in Augusta, Georgia* - Curt
-  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson)
+  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson-1)
 - [*Where the Wind Leads* - Vinh
   Chung](#where-the-wind-leads---vinh-chung)
 - [*Why We Run: A Natural History* - Bernd
-  Heinrich](#why-we-run-a-natural-history---bernd-heinrich)
+  Heinrich](#why-we-run-a-natural-history---bernd-heinrich-1)
 
 ------------------------------------------------------------------------
 
@@ -678,6 +677,17 @@ This is a repository tracking quotes I find memorable from books I read.
   Anything is possible for me if I work hard enough.’” (294)
 - “\[Better to go for the best and lose than it is to go for second best
   and win\].” (295)
+- “It is good to reach for things, even if they are impossible because
+  the higher you reach, the higher you’ll go. Don’t let your fear of
+  failure hold you back but let it be the reason that you would try so
+  hard … so that you never have to face that failure.” (311)
+- “But in a way, all of us are refugees. We all are born in a time and
+  place we didn’t choose, born without language, property, or money,
+  dependent entirely on the decisions of others for our very survival.
+  We all are strangers in a strange land, left to fend for ourselves in
+  a world we barely comprehend, and as we find our way in this world, we
+  need to help others do the same. We have all been blessed – every one
+  of us – and we all are expected to give back.” (345)
 
 ------------------------------------------------------------------------
 
@@ -718,9 +728,12 @@ This is a repository tracking quotes I find memorable from books I read.
   and maybe my life.” (266)
 
 ------------------------------------------------------------------------
-=======
-Book Quotes
-================
+
+## =======
+
+title: “Book Quotes” output: github_document knit: (function(input, …) {
+rmarkdown::render(input, output_file = “README.md”, envir = globalenv())
+}) —
 
 This is a repository tracking quotes I find memorable from books I read.
 
@@ -728,22 +741,22 @@ This is a repository tracking quotes I find memorable from books I read.
 
 ## Contents
 
-- [*Atomic Habits* - James Clear](#atomic-habits---james-clear)
+- [*Atomic Habits* - James Clear](#atomic-habits---james-clear-1)
 - [*Best Seat in the House* - Jack Nicklaus II & Don
-  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager)
+  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager-1)
 - [*Jesus and John Wayne* - Kristin Kobes Du
-  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez)
+  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez-1)
 - [*Let My People Go Surfing* - Yvon
-  Chouinard](#let-my-people-go-surfing---yvon-chouinard)
+  Chouinard](#let-my-people-go-surfing---yvon-chouinard-1)
 - [*Lord of the Flies* - William
-  Golding](#lord-of-the-flies---william-golding)
-- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius)
+  Golding](#lord-of-the-flies---william-golding-1)
+- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius-1)
 - [*The Making of Biblical Womanhood* - Beth Allison
-  Barr](#the-making-of-biblical-womanhood---beth-allison-barr)
+  Barr](#the-making-of-biblical-womanhood---beth-allison-barr-1)
 - [*The Masters: Golf, Money, and Power in Augusta, Georgia* - Curt
-  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson)
+  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson-1)
 - [*Why We Run: A Natural History* - Bernd
-  Heinrich](#why-we-run-a-natural-history---bernd-heinrich)
+  Heinrich](#why-we-run-a-natural-history---bernd-heinrich-1)
 
 ------------------------------------------------------------------------
 
@@ -1398,4 +1411,5 @@ This is a repository tracking quotes I find memorable from books I read.
   and maybe my life.” (266)
 
 ------------------------------------------------------------------------
->>>>>>> e3262651c4a5830e81eef2ad9c7ad3464d1cd056
+
+> > > > > > > e3262651c4a5830e81eef2ad9c7ad3464d1cd056
