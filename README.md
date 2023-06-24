@@ -7,24 +7,26 @@ This is a repository tracking quotes I find memorable from books I read.
 
 ## Contents
 
-- [*Atomic Habits* - James Clear](#atomic-habits---james-clear-1)
+- [*Atomic Habits* - James Clear](#atomic-habits---james-clear)
 - [*Best Seat in the House* - Jack Nicklaus II & Don
-  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager-1)
+  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager)
 - [*Jesus and John Wayne* - Kristin Kobes Du
-  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez-1)
+  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez)
 - [*Let My People Go Surfing* - Yvon
-  Chouinard](#let-my-people-go-surfing---yvon-chouinard-1)
+  Chouinard](#let-my-people-go-surfing---yvon-chouinard)
 - [*Lord of the Flies* - William
-  Golding](#lord-of-the-flies---william-golding-1)
-- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius-1)
+  Golding](#lord-of-the-flies---william-golding)
+- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius)
+- [*The Haunting of Hill House* - Shirley
+  Jackson](#the-haunting-of-hill-house---shirley-jackson)
 - [*The Making of Biblical Womanhood* - Beth Allison
-  Barr](#the-making-of-biblical-womanhood---beth-allison-barr-1)
+  Barr](#the-making-of-biblical-womanhood---beth-allison-barr)
 - [*The Masters: Golf, Money, and Power in Augusta, Georgia* - Curt
-  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson-1)
+  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson)
 - [*Where the Wind Leads* - Vinh
   Chung](#where-the-wind-leads---vinh-chung)
 - [*Why We Run: A Natural History* - Bernd
-  Heinrich](#why-we-run-a-natural-history---bernd-heinrich-1)
+  Heinrich](#why-we-run-a-natural-history---bernd-heinrich)
 
 ------------------------------------------------------------------------
 
@@ -551,6 +553,36 @@ This is a repository tracking quotes I find memorable from books I read.
 
 ------------------------------------------------------------------------
 
+### *The Haunting of Hill House* - Shirley Jackson
+
+- “We are afraid of being someone else and doing the things someone else
+  wants us to do and of being taken and used by someone else, some other
+  guilt-ridden consciences that lives on and on in our minds, something
+  we build ourselves and never recognize, but this is fear, not a named
+  sin.” (Laura Miller, xix)
+- “It is the recognition that the harder you try to escape the emotional
+  dynamics of your family of origin, the more likely you are to
+  duplicate them.” (Laura Miller, xx)
+- “No live organism can continue for long to exist sanely under
+  conditions of absolute reality; even larks and katydids are supposed,
+  by some, to dream.” (1)
+- “… insist on your cup of stars; once they have trapped you into being
+  like everyone else you will never see your cup of stars again …” (15)
+- “People like answering questions about themselves, she thought; what
+  an odd pleasure it is. I would answer anything right now.” (63-64)
+- “‘Fear,’ the doctor said, ’is the relinquishment of logic, the willing
+  relinquishing of reasonable patterns. We yield to it or we fight it,
+  but we cannot meet it halfway.” (117)
+- “‘I think we are only afraid of ourselves,’ the doctor said slowly. \|
+  ‘No,’ Luke said. ‘Of seeing ourselves clearly and without disguise.’
+  \| ‘Of knowing what we really want,’ Theodora said.” (117-118)
+- “‘It’s a shame, I think, the way children grow up these days knowing
+  everything. There should be more mysteries for them, more things that
+  belong rightly to grownups, that they have to wait to find out.’”
+  (164)
+
+------------------------------------------------------------------------
+
 ### *The Making of Biblical Womanhood* - Beth Allison Barr
 
 - “The study found that evangelicals are the ‘most hesitant’ group in
@@ -741,22 +773,22 @@ This is a repository tracking quotes I find memorable from books I read.
 
 ## Contents
 
-- [*Atomic Habits* - James Clear](#atomic-habits---james-clear-1)
+- [*Atomic Habits* - James Clear](#atomic-habits---james-clear)
 - [*Best Seat in the House* - Jack Nicklaus II & Don
-  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager-1)
+  Yeager](#best-seat-in-the-house---jack-nicklaus-ii-don-yeager)
 - [*Jesus and John Wayne* - Kristin Kobes Du
-  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez-1)
+  Mez](#jesus-and-john-wayne---kristin-kobes-du-mez)
 - [*Let My People Go Surfing* - Yvon
-  Chouinard](#let-my-people-go-surfing---yvon-chouinard-1)
+  Chouinard](#let-my-people-go-surfing---yvon-chouinard)
 - [*Lord of the Flies* - William
-  Golding](#lord-of-the-flies---william-golding-1)
-- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius-1)
+  Golding](#lord-of-the-flies---william-golding)
+- [*Meditations* - Marcus Aurelius](#meditations---marcus-aurelius)
 - [*The Making of Biblical Womanhood* - Beth Allison
-  Barr](#the-making-of-biblical-womanhood---beth-allison-barr-1)
+  Barr](#the-making-of-biblical-womanhood---beth-allison-barr)
 - [*The Masters: Golf, Money, and Power in Augusta, Georgia* - Curt
-  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson-1)
+  Sampson](#the-masters-golf-money-and-power-in-augusta-georgia---curt-sampson)
 - [*Why We Run: A Natural History* - Bernd
-  Heinrich](#why-we-run-a-natural-history---bernd-heinrich-1)
+  Heinrich](#why-we-run-a-natural-history---bernd-heinrich)
 
 ------------------------------------------------------------------------
 
