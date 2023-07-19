@@ -1571,5 +1571,3 @@ This is a repository tracking quotes I find memorable from books I read.
   and maybe my life.” (266)
 
 ------------------------------------------------------------------------
-
-> > > > > > > e3262651c4a5830e81eef2ad9c7ad3464d1cd056
